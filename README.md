@@ -6,6 +6,8 @@ Projeto que modifiquei de um Curso de laravel professor Matheus Battisti - Hora 
 ## Layout web
 ![Web 1](https://github.com/robson3222/EXEMPLE-APP/blob/main/manutencao.png)
 
+## Layout web
+![Web 1](https://github.com/robson3222/EXEMPLE-APP/blob/main/dashbord.png)
 
 
 # Tecnologias utilizadas
